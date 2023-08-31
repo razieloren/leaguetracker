@@ -2,7 +2,7 @@
 
 Let's find the best League of Legends Solo Queue server, based on data.
 
-I explained what I did here: https://flirtingbits.com.
+I explained what I did here: https://flirtingbits.com/project/leaguetracker.
 
 Do whatever you want with this code (https://choosealicense.com/licenses/mit/).
 
